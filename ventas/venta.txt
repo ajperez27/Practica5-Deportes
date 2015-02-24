@@ -1,0 +1,255 @@
+Nombre: antonio
+Nombre: Zapa2 Precio: 200.00 Cantidad: 1
+
+ idVenta: 37  Total: 200 
+
+ ***************************** 
+Nombre: antonio
+Nombre: zapa1 Precio: 100.00 Cantidad: 1
+
+ idVenta: 38  Total: 100 
+
+ ***************************** 
+Nombre: antonio
+Nombre: zapa1 Precio: 100.00 Cantidad: 1
+
+ idVenta: 39  Total: 100 
+
+ ***************************** 
+Nombre: antonio
+Nombre: zapa1 Precio: 100.00 Cantidad: 1
+
+ idVenta: 40  Total: 100 
+
+ ***************************** 
+Nombre: antonio
+Nombre: zapa1 Precio: 100.00 Cantidad: 1
+
+ idVenta: 41  Total: 100 
+
+ ***************************** 
+Nombre: Compra 1
+Nombre: zapa1 Precio: 100.00 Cantidad: 1
+
+ idVenta: 42  Total: 100 
+
+ ***************************** 
+Nombre: compra 2
+Nombre: zapa1 Precio: 100.00 Cantidad: 1
+
+ idVenta: 43  Total: 100 
+
+ ***************************** 
+Nombre: compra4
+Nombre: zapa1 Precio: 100.00 Cantidad: 1
+
+ idVenta: 44  Total: 100 
+
+ ***************************** 
+Nombre: compra de pep
+Nombre: zapa1 Precio: 100.00 Cantidad: 1
+
+ idVenta: 45  Total: 100 
+
+ ***************************** 
+Nombre: Compra 1
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 46  Total: 1 
+
+ ***************************** 
+Nombre: compra1
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 47  Total: 1 
+
+ ***************************** 
+Nombre: compra100
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 48  Total: 1 
+
+ ***************************** 
+Nombre: compra200
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 49  Total: 1 
+
+ ***************************** 
+Nombre: compra300
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 50  Total: 1 
+
+ ***************************** 
+Nombre: asf
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 51  Total: 1 
+
+ ***************************** 
+Nombre: sdf
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 52  Total: 1 
+
+ ***************************** 
+Nombre: asfdsaf
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 53  Total: 1 
+
+ ***************************** 
+Nombre: asfasf
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 54  Total: 1 
+
+ ***************************** 
+Nombre: Zapatillas
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 55  Total: 1 
+
+ ***************************** 
+Nombre: Zapatillas
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 56  Total: 1 
+
+ ***************************** 
+Nombre: Zapatillas
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 57  Total: 1 
+
+ ***************************** 
+Nombre: Zapatillas
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 58  Total: 1 
+
+ ***************************** 
+Nombre: Zapatillas
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 59  Total: 1 
+
+ ***************************** 
+Nombre: Zapatillas
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 60  Total: 1 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: 
+
+ idVenta: 0  Total: 0 
+
+ ***************************** 
+Nombre: asfdsaf
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 61  Total: 1 
+
+ ***************************** 

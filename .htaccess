@@ -1,0 +1,3 @@
+Options -Indexes 
+RewriteEngine on
+RewriteRule ^carro.php do/controlador.php
