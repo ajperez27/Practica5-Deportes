@@ -253,3 +253,15 @@ Nombre: zapa1 Precio: 1.00 Cantidad: 1
  idVenta: 61  Total: 1 
 
  ***************************** 
+Nombre: antonio
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 62  Total: 1 
+
+ ***************************** 
+Nombre: Prueba1
+Nombre: zapa1 Precio: 1.00 Cantidad: 1
+
+ idVenta: 63  Total: 1 
+
+ ***************************** 

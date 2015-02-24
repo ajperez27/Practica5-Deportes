@@ -3,9 +3,14 @@
 require '../require/comun.php';
 
 $bd = new BaseDatos();
-$texto = "";
+
 $itemname = "";
+$texto = "";
 $paymentstatus = "";
+
+$respuesta = "";
+$verificado = "";
+$pago = "no";
 
 foreach ($_POST as $nombre => $valor) {
     if ($nombre == "item_name") {
@@ -55,10 +60,6 @@ if (!$fp) {//error de conexi贸n
 }
 file_put_contents("log.txt", $texto, FILE_APPEND);
 
-$verificado = "";
-$respuesta = "";
-$pago = "no";
-
 if ($respuesta == "ok") {
     if ($paymentstatus == "Completed" || $paymentstatus == "Created" || $paymentstatus == "Reversed" || $paymentstatus == "Processed") {
         $verificado = 'verificado';
@@ -97,7 +98,7 @@ $idPaypal = $paypal->getIdPaypal();
 $itemNamePaypal = $paypal->getItemname();
 $verifivacionPaypal = $paypal->getVerificado();
 $texto.="idVenta: $idVenta***rVenta: $rVenta***itemName: $itemname***Respuesta: $respuesta"
-        . "***Verificado: $verificado***Pago: $pago***r: $r****idPaypal: $idPaypal"
+        . "***Verificado: $verificado***Pago: $pago***rPaypal: $rPaypal****idPaypal: $idPaypal"
         . "***itemNamePaypal:$itemNamePaypal***VerifivacionPaypal: $verifivacionPaypal"
         . "*****rPaypal: $rPaypal\n";
 

@@ -41,7 +41,7 @@
                         </a>
                         <div class="login-rigister">
                             <ul class="unstyled-list list-inline">
-                                <li><a class="login" href="backEnd/index.php">Login</a>
+                                <li><a class="login" href="../backEnd/index.php">Login</a>
                                 </li>
                                 <li><a class="rigister" href="#">REGISTER <span> </span></a>
                                 </li>
@@ -66,7 +66,7 @@
                             <h3>SPECIAL <span>PRODUCTS</span></h3>
                         </div>
                         <div class="s-products-head-right">
-                            <a href="#"><span> </span>ver todos los productos</a>
+                            <a href="../index.php"><span> </span>ver todos los productos</a>
                         </div>
                         <div class="clearfix"></div>
                     </div>
