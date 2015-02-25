@@ -29,10 +29,11 @@ if (isset($cesta[$idProducto])) {
     $_SESSION["__cesta"] = $cesta;
 }
 
-if ($destino == "comprar"){
-    header("Location: realizarcompra.php");
-} 
- else {
-   header("Location: ../carro.php#aqui"); 
- }
+if ($destino == "comprar") {
+    $bd->closeConexion();
+    header("Location: realizarcompra.php");   
+} else {
+    $bd->closeConexion();
+    header("Location: ../carro.php#aqui");    
+}
 

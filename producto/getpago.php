@@ -103,4 +103,5 @@ $texto.="idVenta: $idVenta***rVenta: $rVenta***itemName: $itemname***Respuesta: 
         . "*****rPaypal: $rPaypal\n";
 
 file_put_contents("log.txt", $texto, FILE_APPEND);
+ $bd->closeConexion();
 ?>

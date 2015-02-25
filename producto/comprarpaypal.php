@@ -206,3 +206,6 @@ session_destroy();
         <!----container---->
     </body>
 </html>
+<?php
+$bd->closeConexion();
+?>

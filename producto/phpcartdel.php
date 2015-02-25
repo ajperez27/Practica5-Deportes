@@ -13,6 +13,7 @@ session_start();
 if (isset($_SESSION["__cesta"])) {
     $cesta = $_SESSION["__cesta"];
 } else {
+    $bd->closeConexion();
     header("Location: ../index.php");
     exit();
 }
@@ -20,9 +21,10 @@ unset($cesta[$idProducto]);
 
 $_SESSION["__cesta"] = $cesta;
 
-if ($destino == "comprar"){
+if ($destino == "comprar") {
+    $bd->closeConexion();
     header("Location: realizarcompra.php");
-} 
- else {
+} else {
+    $bd->closeConexion();
     header("Location: ../carro.php#aqui");
- }
+}

@@ -227,3 +227,6 @@ if (isset($_SESSION["__cesta"])) {
         <!----container---->
     </body>
 </html>
+<?php
+$bd->closeConexion();
+?>

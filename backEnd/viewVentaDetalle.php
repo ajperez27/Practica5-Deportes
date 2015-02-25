@@ -210,3 +210,6 @@ $precioTotal = 0;
         <!----container---->
     </body>
 </html>
+<?php
+$bd->closeConexion();
+?>

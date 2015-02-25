@@ -174,3 +174,6 @@ $enlaces = Paginacion::getEnlacesPaginacion($pagina, $total[0], Configuracion::R
         <!----container---->
     </body>
 </html>
+<?php
+$bd->closeConexion();
+?>

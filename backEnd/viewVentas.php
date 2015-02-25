@@ -8,7 +8,7 @@ if (Leer::get("pagina") != null) {
     $pagina = Leer::get("pagina");
 }
 $bd = new BaseDatos();
-$modeloPaypal = new ModeloPaypal ($bd);
+$modeloPaypal = new ModeloPaypal($bd);
 $modeloVenta = new ModeloVenta($bd);
 $ventas = $modeloVenta->getList($pagina);
 
@@ -111,7 +111,7 @@ $enlaces = Paginacion::getEnlacesPaginacion($pagina, $total, Configuracion::RPP)
                             <tbody>
                                 <?php
                                 foreach ($ventas as $indice => $venta) {
-                                    $paypal = $modeloPaypal->get($venta->getIdVenta());                                    
+                                    $paypal = $modeloPaypal->get($venta->getIdVenta());
                                     ?>
                                     <tr>
                                         <td> <?php echo $venta->getIdVenta(); ?></td>
@@ -208,3 +208,6 @@ $enlaces = Paginacion::getEnlacesPaginacion($pagina, $total, Configuracion::RPP)
         <!----container---->
     </body>
 </html>
+<?php
+$bd->closeConexion();
+?>
